@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: ProjectOne, Configuration: Debug x64 ------
+1>ProjectOne.cpp
+1>ProjectOne.vcxproj -> C:\Users\User\source\repos\ProjectOne\x64\Debug\ProjectOne.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 6:30 PM and took 04,072 seconds ==========
